@@ -1,5 +1,5 @@
 # Prints "Hello World!"
-# Test
+# Test 2
 
 print "Hello World!"
 
