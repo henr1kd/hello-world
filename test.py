@@ -4,5 +4,8 @@
 def printHelloWorld():
     print "Hello World!"
 
+    
+def printNewPrint():
+
     # A new print
     print "A new print"
