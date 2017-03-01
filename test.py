@@ -5,4 +5,4 @@ def printHelloWorld():
     print "Hello World!"
 
     # A new print
-    print "A new print"
+    print "A new print" # need a new function for this
