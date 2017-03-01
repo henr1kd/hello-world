@@ -1,7 +1,8 @@
 # Prints "Hello World!"
 # Test 2
 
-print "Hello World!"
+def printHelloWorld():
+    print "Hello World!"
 
-# A new print
-print "A new print"
+    # A new print
+    print "A new print"
